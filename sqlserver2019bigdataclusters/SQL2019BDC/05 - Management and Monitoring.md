@@ -62,7 +62,7 @@ Since the SQL Server big data cluster lives within a Kubernetes cluster, you'll 
 
 </table>
 
-Use this resource<a href="https://docs.microsoft.com/en-us/sql/big-data-cluster/cluster-troubleshooting-commands?view=sqlallproducts-allversions 
+Use this resource <a href="https://docs.microsoft.com/en-us/sql/big-data-cluster/cluster-troubleshooting-commands?view=sqlallproducts-allversions 
 " target="_blank">to learn more about these commands for troubleshooting the SQL Server BDC</a>.
 
 A <a href="https://kubernetes.io/docs/reference/kubectl/cheatsheet/" target="_blank">full list of the **kubectl** commands is here</a>. 
